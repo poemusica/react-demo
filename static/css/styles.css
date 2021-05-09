@@ -1,0 +1,16 @@
+body {
+    margin:25px;
+}
+nav {
+    font-size: 10px;
+}
+ul {
+    list-style: initial;
+}
+footer {
+    font-size: 10px;
+}
+.fancy {
+    font-style: oblique;
+    font-family: fantasy;
+}
